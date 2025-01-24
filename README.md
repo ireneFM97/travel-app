@@ -39,86 +39,58 @@ Este proyecto fue desarrollado utilizando:
 ### 🗺️ Información del destino
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/destino-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738535/informacion-escritorio_f63nbc.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/destino-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/info-res_mjde3u.png">
 
 ### 🍽️ Comidas típicas
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/comidas-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/comidas-escritorio_li8pkw.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/comidas-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/comidas-res_hc9esn.png">
 
 ### 🍴 Restaurantes y cafeterías
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/restaurantes-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/dondecomer-escritorio_sds0dd.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/restaurantes-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/dondecomer-res_qasuhw.png">
 
 ### 🧳 Maleta
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/maleta-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738535/maleta-escritorio_ggun2u.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/maleta-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/maleta-res_iivxlt.png">
 
 ### 🏞️ Lugares para visitar
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/lugares-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738535/sitios-escritorio_e7s04b.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/lugares-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738535/sitios-res_kl5rag.png">
 
 ### 🗺️ Mapa interactivo
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/mapa-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/mapas-escritorio_oossoc.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/mapa-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738534/mapas-res_xdtjy3.png">>
 
 ### 📅 Organización de rutas
 
 #### Versión de escritorio
-<div>
-  <img width="900" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/rutas-escritorio.png">
-</div>
+<img width="900" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738535/ruta-escritorio_zdgbgq.png">
 
 #### Versión responsive
-<div>
-  <img width="400" alt="image" src="https://res.cloudinary.com/tu-repositorio/image/upload/v1234567890/rutas-responsive.png">
-</div>
+<img width="400" alt="image" src="https://res.cloudinary.com/dkicsjbbb/image/upload/v1737738535/ruta-res_kxtbe5.png">
 
 ---
 
